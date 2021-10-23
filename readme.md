@@ -21,5 +21,6 @@ boolean check = Parser.tryParseInt(scanner.nextLine(), out); // hint C#
  System.out.println("Congrats! you have entered the integer: " + out);
 ```
 
-&copy;Mohamad Ojail 2021
+&copy;Mohamad Ojail
+
 2021-10-24
