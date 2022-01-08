@@ -11,7 +11,7 @@ and that's it actually not that complicated for a beginner!
 #### an example would look like this:
 
 ```java
-Ref<Parser> out = new Ref<>(); // create instance of ref object "out"
+Ref<Integer> out = new Ref<>(); // create instance of ref object "out"
 boolean check = Parser.tryParseInt(scanner.nextLine(), out); // hint C#
 
 	while (!check) {
