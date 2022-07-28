@@ -21,7 +21,9 @@ public class Main {
          */
         
         while (!check) {
-            System.out.print("Invalid! not an integer, try again: ");
+            System.err.println("Invalid! not an integer, try again.\nOut value= " + out.getValue());
+            System.out.println();
+            System.out.print("New input: ");
             check = Parser.tryParseInt(sc.nextLine(), out); // hint C#
         }
         

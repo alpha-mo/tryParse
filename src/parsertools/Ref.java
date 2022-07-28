@@ -22,6 +22,6 @@ public class Ref<X> {
 
 	@Override
 	public String toString() {
-		return (value == null) ? "this object is nothing than null" : value.toString();
+		return value == null ? "object is null" : value.toString();
 	}
 }

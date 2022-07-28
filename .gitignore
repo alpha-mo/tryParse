@@ -1,13 +1,7 @@
-/.idea/uiDesigner.xml
-/out/production/TrayParse/Main.class
-/.idea/misc.xml
-/.idea/modules.xml
-/out/production/TrayParse/parsertools/Parser.class
-/out/production/TrayParse/parsertools/Ref.class
-/.idea/runConfigurations.xml
-/TrayParse.iml
+/tryParse.iml
 /.idea/
 /bin/
+/out/
 
 # Java related
 target/**
