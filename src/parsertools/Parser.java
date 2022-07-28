@@ -66,7 +66,7 @@ public class Parser {
     	}
     	
     }
-	
+
 	/**
 	 * utility method that trys to parse user input to double
 	 * @param input the data to be parsed
@@ -83,20 +83,3 @@ public class Parser {
     	
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
